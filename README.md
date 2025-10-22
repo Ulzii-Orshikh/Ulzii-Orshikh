@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulzii-Orshikh
 - 👀 I’m interested in Data Science, Music, Financial Markets
-- 🌱 I’m currently learning Machine Learning, Javascript
+- 🌱 I’m currently exploring the AI use cases
 - 📫 How to reach me : by mail - ulzii.uujig@gmail.com
 
 <!---
